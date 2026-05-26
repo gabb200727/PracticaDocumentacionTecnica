@@ -2,10 +2,19 @@
 
 Todos los cambios importantes de este proyecto serán documentados en este archivo.
 
-## [1.0.0] - 2026-05-21
+## [1.1.0] - 2026-05-25
 
-### Agregado
-- Programa en Python para sumar dos números.
-- Solicitud de entrada de datos al usuario.
-- Visualización del resultado de la suma en consola.
-- Archivo `README.md` con instrucciones y ejemplos de uso.
+### Added
+- Archivo `RELEASE_NOTES.md` con información detallada de la versión.
+- Etiqueta oficial de lanzamiento: `2026-05-21 versión 1.0.0 "BMV" (LTS)`.
+- Mejor organización de la documentación del proyecto.
+
+### Changed
+- Documentación general del proyecto.
+- Estructura de archivos para facilitar mantenimiento y lectura.
+
+### Incluido en esta versión
+- `suma.py`
+- `README.md`
+- `CHANGELOG.md`
+- `RELEASE_NOTES.md`
