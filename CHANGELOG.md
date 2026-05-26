@@ -17,7 +17,6 @@ Todos los cambios importantes de este proyecto serán documentados en este archi
 - `suma.py`
 - `README.md`
 - `CHANGELOG.md`
-- `RELEASE_NOTES.md`
 
 ## [1.0.0] - 2026-05-21
 
