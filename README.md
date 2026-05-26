@@ -1,4 +1,4 @@
-# Programa de Suma en Python v1.1.0
+# Programa de Suma en Python v2.0.0
 
 Este es un programa sencillo en Python que permite sumar dos números ingresados por el usuario.
 
